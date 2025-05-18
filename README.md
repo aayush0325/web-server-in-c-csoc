@@ -41,4 +41,4 @@ Every Sunday, we'll have a standup call to discuss the project's progress, addre
 
 Familiarize yourself with the HTTP protocol and web server concepts. Set up a development environment with necessary tools (e.g., compiler, debugger).
 
-*   [Week 1 tasks](./tasks/week1.md) for detailed instructions.
+*   [Week 1 tasks](./tasks/week1.md).
